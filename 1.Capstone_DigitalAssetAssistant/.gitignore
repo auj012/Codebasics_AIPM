@@ -3,9 +3,9 @@
 __pycache__/
 *.pyc
 
-# Large / local-only (Codebasics-provided sample dataset)
-Dataset.zip
-Dataset/
+# Too large for GitHub (sample assets ARE included; these are not)
+*.zip
+DA vs DS vs DE.pptx
 
 # Office temp/lock files
 ~$*

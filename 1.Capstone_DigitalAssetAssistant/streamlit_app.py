@@ -85,7 +85,8 @@ if query:
                     st.markdown(f"🔗 [{label}]({jump})")
                 else:
                     # local file -> full path, where-in-file, and a download button
-                    abs_path = BASE / loc
+                    # normalize Windows backslashes so paths resolve on Linux (cloud) too
+                    abs_path = BASE / str(loc).replace("\\", "/")
                     st.caption(f"📁 {abs_path}")
                     if r.asset.type in ("deck", "pdf"):
                         where, snip = locate_in_file(abs_path, query)

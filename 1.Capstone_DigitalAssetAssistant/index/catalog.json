@@ -4,7 +4,7 @@
     "name": "ai_data_conference_2026_speaker_card.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\ai_data_conference_2026_speaker_card.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/ai_data_conference_2026_speaker_card.png",
     "text": "ai data conference 2026 speaker card. ai data conference 2026 speaker card",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -14,7 +14,7 @@
     "name": "bootcamp5_brochure_onepager.pdf",
     "type": "pdf",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\bootcamp5_brochure_onepager.pdf",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/bootcamp5_brochure_onepager.pdf",
     "text": "bootcamp5 brochure onepager. Data Analytics Bootcamp 5.0 Why this bootcamp Learn by doing: real business problems from AtliQ-style case studies. Job assistance: resume reviews, mock interviews, referral network. Community of 10,000+ learners and mentors. Curriculum Excel and Statistics - SQL - Power BI - Python - Projects - Job Prep Format Self-paced videos + live doubt-clearing sessions + Discord community. Enrollment Visit codebasics.io/bootcamps for current batch dates and pricing. codebasics.io - synthetic sample asset for capstone use",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -24,7 +24,7 @@
     "name": "bootcamp5_enrollment_banner.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\bootcamp5_enrollment_banner.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/bootcamp5_enrollment_banner.png",
     "text": "bootcamp5 enrollment banner. bootcamp5 enrollment banner",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -34,7 +34,7 @@
     "name": "codebasics_logo_primary.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\codebasics_logo_primary.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/codebasics_logo_primary.png",
     "text": "codebasics logo primary. codebasics logo primary",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -44,7 +44,7 @@
     "name": "data_analyst_roadmap_2026_infographic.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\data_analyst_roadmap_2026_infographic.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/data_analyst_roadmap_2026_infographic.png",
     "text": "data analyst roadmap 2026 infographic. data analyst roadmap 2026 infographic",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -54,7 +54,7 @@
     "name": "DA vs DS vs DE.pptx",
     "type": "deck",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\DA vs DS vs DE.pptx",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Decks/DA vs DS vs DE.pptx",
     "text": "DA vs DS vs DE. Data Analyst Data Engineer Data Scientist or or Data Scientist, Analyst Data Engineer ETL BI Dashboards Machine Learning Data Engineer Data Analyst Data Scientist Job Opportunities & Future Growth Full report attached in description Business Analyst Financial Analyst Supply Chain Analyst HR Analyst Quantitative Analyst Social Media Data Analyst Power BI Developer Risk Analyst Operations Analyst Marketing Analyst Data Architect Data Integration Specialist ETL Developer Data Warehouse Engineer DataOps Engineer Data Quality Engineer Cloud Data Engineer Big Data Engineer Gen AI Developer Machine Learning Engineer Applied AI Engineer AI Research Engineer NLP Engineer Deep Learning Engineer Data Scientist Data Science Engineer Data Science Intern Research Scientist - Data AI – The Enabler Data Analyst Data Scientist Data Engineer System 1 Fast, intuitive, automatic thinking Examples: (1) Recognize faces (2) Drive on a known route System 2 Slow, analytical, and effortful Examples: (1) Getting married to a person, (2) Building a business strategy Data Analyst 1.0 Data Analyst 2.0 Static Requirements Repetitive Manual Tasks Complex Requirements Automates Repetitive Tasks Prefers to Stay Behind Screen Focuses only on Task Execution Faces Business Users Focuses on Business Outcome Enabled by AI Growth Mindset Will be Replaced by AI Fixed Mindset Roles Merging Together Enterprise AI Adoption Salaries 2. Ease of Entry Parth will show footages as we instructor speaks about it 3. Alignment with Your Natural Skills 1. Math and Statistics 2. Coding 3. Computer Science and database fundamentals Career Selection Test END Deepseek R1 Logistic Regression BERT Regex NLP Run Deepseek-R1 Locally Bloomberg NVIDIA Python Online Credibility SQL (Basics) Math , Statistics Domain Knowledge Machine Learning Job Assistance, ATS Resume, Portfolio Website Deep Learning NLP Gen AI Virtual Internship 1 Virtual Internship 2 Is this the right career role for me? Create suitability test Title 1 Body Text Title 2 Font: Color code: #D6EF3F #33CC33 #33CC33 #404C78 Saira Kanit Title 1 Body Text Title 2 Font: Color code: #D6EF3F #33CC33 #33CC33 #404C78 Saira Kanit",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -64,7 +64,7 @@
     "name": "is_the_ai_bubble_about_to_burst.pptx",
     "type": "deck",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\is_the_ai_bubble_about_to_burst.pptx",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Decks/is_the_ai_bubble_about_to_burst.pptx",
     "text": "is the ai bubble about to burst. Title 1 Body Text Title 2 Font: Color code: #D6EF3F #33CC33 #33CC33 #404C78 Saira Kanit",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -74,7 +74,7 @@
     "name": "linear_regression_with_single_variable.pptx",
     "type": "deck",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\linear_regression_with_single_variable.pptx",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Decks/linear_regression_with_single_variable.pptx",
     "text": "linear regression with single variable. Given these home prices find out prices of homes whose area is, 3300 square feet 5000 square feet Home prices in Monroe Twp, NJ (USA) 628715 3300 Independent variable Dependent variable",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -84,7 +84,7 @@
     "name": "star_schema.pptx",
     "type": "deck",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\star_schema.pptx",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Decks/star_schema.pptx",
     "text": "star schema. Sales Customers Product Date Region Platform Fact Dimension Dimension Dimension Dimension Dimension Star Schema Customers Product Date Region Platform Sales Channel Address Snowflake Schema",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -94,7 +94,7 @@
     "name": "svm.pptx",
     "type": "deck",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\svm.pptx",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Decks/svm.pptx",
     "text": "svm. Petal Length Petal Width Setosa Versicolor Margin 3D 2D nD Image Credit: https://appliedmachinelearning.blog Support vector machine draws a hyper plane in n dimensional space such that it maximizes margin between classification groups Gamma & Regularization High Gamma Low Gamma High Regularization (C) Low Regularization (C) x y x z This transformation is called kernel x y",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -104,7 +104,7 @@
     "name": "what_is_bi_tool.pptx",
     "type": "deck",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\what_is_bi_tool.pptx",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Decks/what_is_bi_tool.pptx",
     "text": "what is bi tool. MySQL Data Cleaning Data Transformation Derived Measures Data Import",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -114,7 +114,7 @@
     "name": "what_is_ML.pptx",
     "type": "deck",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\what_is_ML.pptx",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Decks/what_is_ML.pptx",
     "text": "what is ML. What is machine learning? 284029834098 * 845609845960 Machine learning is set of techniques to make computers better at doing things that humans (traditionally) can do better then machines Machine learning involves making machines learn things like humans do Neurons Cow Car Cow Car Cow Car Set of techniques to extract knowledge from available data and use that knowledge to make decisions Machine Learning Deep Learning Mathematical Models Machine learning in real life",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -124,7 +124,7 @@
     "name": "genai_with_langchain_thumb_01.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\genai_with_langchain_thumb_01.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/genai_with_langchain_thumb_01.png",
     "text": "genai with langchain thumb 01. genai with langchain thumb 01",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -134,7 +134,7 @@
     "name": "ml_for_everyone_thumb_12.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\ml_for_everyone_thumb_12.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/ml_for_everyone_thumb_12.png",
     "text": "ml for everyone thumb 12. ml for everyone thumb 12",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -144,7 +144,7 @@
     "name": "powerbi_course_thumb_07.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\powerbi_course_thumb_07.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/powerbi_course_thumb_07.png",
     "text": "powerbi course thumb 07. powerbi course thumb 07",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -154,7 +154,7 @@
     "name": "resume_checklist_data_analyst.pdf",
     "type": "pdf",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\resume_checklist_data_analyst.pdf",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/resume_checklist_data_analyst.pdf",
     "text": "resume checklist data analyst. Resume Checklist - Data Analyst Structure [ ] One page only. [ ] Contact info + LinkedIn + portfolio link at top. Projects [ ] 2-3 projects with business context, not just tools. [ ] Quantify impact where possible. [ ] Link each project to a GitHub repo or live dashboard. Skills [ ] Only list tools you can defend in an interview. [ ] SQL and one BI tool are non-negotiable. Common mistakes [ ] No 'objective' paragraphs. [ ] No skill bars or ratings. [ ] Tailor for each application. codebasics.io - synthetic sample asset for capstone use",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -164,7 +164,7 @@
     "name": "sql_course_insta_post_03.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\sql_course_insta_post_03.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/sql_course_insta_post_03.png",
     "text": "sql course insta post 03. sql course insta post 03",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -174,7 +174,7 @@
     "name": "ai_crash_thumbnail.jpg",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\ai_crash_thumbnail.jpg",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/ai_crash_thumbnail.jpg",
     "text": "ai crash thumbnail. ai crash thumbnail",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -184,7 +184,7 @@
     "name": "daval_at_conference_with_bloomberg_friends.jpg",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\daval_at_conference_with_bloomberg_friends.jpg",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/daval_at_conference_with_bloomberg_friends.jpg",
     "text": "daval at conference with bloomberg friends. daval at conference with bloomberg friends",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -194,7 +194,7 @@
     "name": "dhaval.JPG",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval.JPG",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/dhaval.JPG",
     "text": "dhaval. dhaval",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -204,7 +204,7 @@
     "name": "dhaval_with_hem_linkedin_image.jpg",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval_with_hem_linkedin_image.jpg",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/dhaval_with_hem_linkedin_image.jpg",
     "text": "dhaval with hem linkedin image. dhaval with hem linkedin image",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -214,7 +214,7 @@
     "name": "dhaval_with_karandeep_linkedin_image.jpg",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval_with_karandeep_linkedin_image.jpg",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/dhaval_with_karandeep_linkedin_image.jpg",
     "text": "dhaval with karandeep linkedin image. dhaval with karandeep linkedin image",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -224,7 +224,7 @@
     "name": "dhaval_with_sid_linkedin_image.jpg",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval_with_sid_linkedin_image.jpg",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/dhaval_with_sid_linkedin_image.jpg",
     "text": "dhaval with sid linkedin image. dhaval with sid linkedin image",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -234,7 +234,7 @@
     "name": "linear_regression_with_single_variable_thumbnail.jpg",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\linear_regression_with_single_variable_thumbnail.jpg",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/linear_regression_with_single_variable_thumbnail.jpg",
     "text": "linear regression with single variable thumbnail. linear regression with single variable thumbnail",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -244,7 +244,7 @@
     "name": "openclaw_linkedin_image.jpg",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\openclaw_linkedin_image.jpg",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/openclaw_linkedin_image.jpg",
     "text": "openclaw linkedin image. openclaw linkedin image",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -254,7 +254,7 @@
     "name": "svm_thumbnail.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\svm_thumbnail.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/svm_thumbnail.png",
     "text": "svm thumbnail. svm thumbnail",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -264,7 +264,7 @@
     "name": "what_is_power_bi_thumbnail.png",
     "type": "image",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\what_is_power_bi_thumbnail.png",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/Thumbnails_and_Images/what_is_power_bi_thumbnail.png",
     "text": "what is power bi thumbnail. what is power bi thumbnail",
     "modified": "2026-08-13",
     "slide_page": ""
@@ -274,7 +274,7 @@
     "name": "webinar_handout_genai_careers.pdf",
     "type": "pdf",
     "source": "local file",
-    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\webinar_handout_genai_careers.pdf",
+    "location": "Dataset/Dataset/Dataset/sample_assets/sample_assets/webinar_handout_genai_careers.pdf",
     "text": "webinar handout genai careers. Webinar Handout - GenAI Careers Key takeaways GenAI roles split into: builders (engineers), adapters (analysts using AI), and PMs. RAG, agents, and evaluation are the three skills employers screen for. Recommended learning path 1. Python fundamentals 2. LLM APIs 3. LangChain basics 4. One end-to-end project Resources codebasics GenAI course - youtube.com/@codebasics playlists - community Discord Q&A highlights Q: Do I need a GPU? A: No - use hosted APIs to start. Q: Is prompt engineering a career? A: It is a skill, not a career. codebasics.io - synthetic sample asset for capstone use",
     "modified": "2026-08-13",
     "slide_page": ""
