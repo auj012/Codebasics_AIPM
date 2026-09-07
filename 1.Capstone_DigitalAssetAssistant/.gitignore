@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Large / local-only (Codebasics-provided sample dataset)
+Dataset.zip
+Dataset/
+
+# Office temp/lock files
+~$*
+*.tmp
+~WRL*
+
+# OS
+.DS_Store
+desktop.ini
+Thumbs.db

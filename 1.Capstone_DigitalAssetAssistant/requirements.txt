@@ -1,0 +1,9 @@
+sentence-transformers
+streamlit
+pypdf
+python-pptx
+openpyxl
+pandas
+numpy
+youtube-transcript-api
+pillow

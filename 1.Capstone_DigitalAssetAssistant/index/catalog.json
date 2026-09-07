@@ -1,0 +1,872 @@
+[
+  {
+    "id": 1,
+    "name": "ai_data_conference_2026_speaker_card.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\ai_data_conference_2026_speaker_card.png",
+    "text": "ai data conference 2026 speaker card. ai data conference 2026 speaker card",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 2,
+    "name": "bootcamp5_brochure_onepager.pdf",
+    "type": "pdf",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\bootcamp5_brochure_onepager.pdf",
+    "text": "bootcamp5 brochure onepager. Data Analytics Bootcamp 5.0 Why this bootcamp Learn by doing: real business problems from AtliQ-style case studies. Job assistance: resume reviews, mock interviews, referral network. Community of 10,000+ learners and mentors. Curriculum Excel and Statistics - SQL - Power BI - Python - Projects - Job Prep Format Self-paced videos + live doubt-clearing sessions + Discord community. Enrollment Visit codebasics.io/bootcamps for current batch dates and pricing. codebasics.io - synthetic sample asset for capstone use",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 3,
+    "name": "bootcamp5_enrollment_banner.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\bootcamp5_enrollment_banner.png",
+    "text": "bootcamp5 enrollment banner. bootcamp5 enrollment banner",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 4,
+    "name": "codebasics_logo_primary.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\codebasics_logo_primary.png",
+    "text": "codebasics logo primary. codebasics logo primary",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 5,
+    "name": "data_analyst_roadmap_2026_infographic.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\data_analyst_roadmap_2026_infographic.png",
+    "text": "data analyst roadmap 2026 infographic. data analyst roadmap 2026 infographic",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 6,
+    "name": "DA vs DS vs DE.pptx",
+    "type": "deck",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\DA vs DS vs DE.pptx",
+    "text": "DA vs DS vs DE. Data Analyst Data Engineer Data Scientist or or Data Scientist, Analyst Data Engineer ETL BI Dashboards Machine Learning Data Engineer Data Analyst Data Scientist Job Opportunities & Future Growth Full report attached in description Business Analyst Financial Analyst Supply Chain Analyst HR Analyst Quantitative Analyst Social Media Data Analyst Power BI Developer Risk Analyst Operations Analyst Marketing Analyst Data Architect Data Integration Specialist ETL Developer Data Warehouse Engineer DataOps Engineer Data Quality Engineer Cloud Data Engineer Big Data Engineer Gen AI Developer Machine Learning Engineer Applied AI Engineer AI Research Engineer NLP Engineer Deep Learning Engineer Data Scientist Data Science Engineer Data Science Intern Research Scientist - Data AI – The Enabler Data Analyst Data Scientist Data Engineer System 1 Fast, intuitive, automatic thinking Examples: (1) Recognize faces (2) Drive on a known route System 2 Slow, analytical, and effortful Examples: (1) Getting married to a person, (2) Building a business strategy Data Analyst 1.0 Data Analyst 2.0 Static Requirements Repetitive Manual Tasks Complex Requirements Automates Repetitive Tasks Prefers to Stay Behind Screen Focuses only on Task Execution Faces Business Users Focuses on Business Outcome Enabled by AI Growth Mindset Will be Replaced by AI Fixed Mindset Roles Merging Together Enterprise AI Adoption Salaries 2. Ease of Entry Parth will show footages as we instructor speaks about it 3. Alignment with Your Natural Skills 1. Math and Statistics 2. Coding 3. Computer Science and database fundamentals Career Selection Test END Deepseek R1 Logistic Regression BERT Regex NLP Run Deepseek-R1 Locally Bloomberg NVIDIA Python Online Credibility SQL (Basics) Math , Statistics Domain Knowledge Machine Learning Job Assistance, ATS Resume, Portfolio Website Deep Learning NLP Gen AI Virtual Internship 1 Virtual Internship 2 Is this the right career role for me? Create suitability test Title 1 Body Text Title 2 Font: Color code: #D6EF3F #33CC33 #33CC33 #404C78 Saira Kanit Title 1 Body Text Title 2 Font: Color code: #D6EF3F #33CC33 #33CC33 #404C78 Saira Kanit",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 7,
+    "name": "is_the_ai_bubble_about_to_burst.pptx",
+    "type": "deck",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\is_the_ai_bubble_about_to_burst.pptx",
+    "text": "is the ai bubble about to burst. Title 1 Body Text Title 2 Font: Color code: #D6EF3F #33CC33 #33CC33 #404C78 Saira Kanit",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 8,
+    "name": "linear_regression_with_single_variable.pptx",
+    "type": "deck",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\linear_regression_with_single_variable.pptx",
+    "text": "linear regression with single variable. Given these home prices find out prices of homes whose area is, 3300 square feet 5000 square feet Home prices in Monroe Twp, NJ (USA) 628715 3300 Independent variable Dependent variable",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 9,
+    "name": "star_schema.pptx",
+    "type": "deck",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\star_schema.pptx",
+    "text": "star schema. Sales Customers Product Date Region Platform Fact Dimension Dimension Dimension Dimension Dimension Star Schema Customers Product Date Region Platform Sales Channel Address Snowflake Schema",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 10,
+    "name": "svm.pptx",
+    "type": "deck",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\svm.pptx",
+    "text": "svm. Petal Length Petal Width Setosa Versicolor Margin 3D 2D nD Image Credit: https://appliedmachinelearning.blog Support vector machine draws a hyper plane in n dimensional space such that it maximizes margin between classification groups Gamma & Regularization High Gamma Low Gamma High Regularization (C) Low Regularization (C) x y x z This transformation is called kernel x y",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 11,
+    "name": "what_is_bi_tool.pptx",
+    "type": "deck",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\what_is_bi_tool.pptx",
+    "text": "what is bi tool. MySQL Data Cleaning Data Transformation Derived Measures Data Import",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 12,
+    "name": "what_is_ML.pptx",
+    "type": "deck",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Decks\\what_is_ML.pptx",
+    "text": "what is ML. What is machine learning? 284029834098 * 845609845960 Machine learning is set of techniques to make computers better at doing things that humans (traditionally) can do better then machines Machine learning involves making machines learn things like humans do Neurons Cow Car Cow Car Cow Car Set of techniques to extract knowledge from available data and use that knowledge to make decisions Machine Learning Deep Learning Mathematical Models Machine learning in real life",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 13,
+    "name": "genai_with_langchain_thumb_01.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\genai_with_langchain_thumb_01.png",
+    "text": "genai with langchain thumb 01. genai with langchain thumb 01",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 14,
+    "name": "ml_for_everyone_thumb_12.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\ml_for_everyone_thumb_12.png",
+    "text": "ml for everyone thumb 12. ml for everyone thumb 12",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 15,
+    "name": "powerbi_course_thumb_07.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\powerbi_course_thumb_07.png",
+    "text": "powerbi course thumb 07. powerbi course thumb 07",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 16,
+    "name": "resume_checklist_data_analyst.pdf",
+    "type": "pdf",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\resume_checklist_data_analyst.pdf",
+    "text": "resume checklist data analyst. Resume Checklist - Data Analyst Structure [ ] One page only. [ ] Contact info + LinkedIn + portfolio link at top. Projects [ ] 2-3 projects with business context, not just tools. [ ] Quantify impact where possible. [ ] Link each project to a GitHub repo or live dashboard. Skills [ ] Only list tools you can defend in an interview. [ ] SQL and one BI tool are non-negotiable. Common mistakes [ ] No 'objective' paragraphs. [ ] No skill bars or ratings. [ ] Tailor for each application. codebasics.io - synthetic sample asset for capstone use",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 17,
+    "name": "sql_course_insta_post_03.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\sql_course_insta_post_03.png",
+    "text": "sql course insta post 03. sql course insta post 03",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 18,
+    "name": "ai_crash_thumbnail.jpg",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\ai_crash_thumbnail.jpg",
+    "text": "ai crash thumbnail. ai crash thumbnail",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 19,
+    "name": "daval_at_conference_with_bloomberg_friends.jpg",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\daval_at_conference_with_bloomberg_friends.jpg",
+    "text": "daval at conference with bloomberg friends. daval at conference with bloomberg friends",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 20,
+    "name": "dhaval.JPG",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval.JPG",
+    "text": "dhaval. dhaval",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 21,
+    "name": "dhaval_with_hem_linkedin_image.jpg",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval_with_hem_linkedin_image.jpg",
+    "text": "dhaval with hem linkedin image. dhaval with hem linkedin image",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 22,
+    "name": "dhaval_with_karandeep_linkedin_image.jpg",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval_with_karandeep_linkedin_image.jpg",
+    "text": "dhaval with karandeep linkedin image. dhaval with karandeep linkedin image",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 23,
+    "name": "dhaval_with_sid_linkedin_image.jpg",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\dhaval_with_sid_linkedin_image.jpg",
+    "text": "dhaval with sid linkedin image. dhaval with sid linkedin image",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 24,
+    "name": "linear_regression_with_single_variable_thumbnail.jpg",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\linear_regression_with_single_variable_thumbnail.jpg",
+    "text": "linear regression with single variable thumbnail. linear regression with single variable thumbnail",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 25,
+    "name": "openclaw_linkedin_image.jpg",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\openclaw_linkedin_image.jpg",
+    "text": "openclaw linkedin image. openclaw linkedin image",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 26,
+    "name": "svm_thumbnail.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\svm_thumbnail.png",
+    "text": "svm thumbnail. svm thumbnail",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 27,
+    "name": "what_is_power_bi_thumbnail.png",
+    "type": "image",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\Thumbnails_and_Images\\what_is_power_bi_thumbnail.png",
+    "text": "what is power bi thumbnail. what is power bi thumbnail",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 28,
+    "name": "webinar_handout_genai_careers.pdf",
+    "type": "pdf",
+    "source": "local file",
+    "location": "Dataset\\Dataset\\Dataset\\sample_assets\\sample_assets\\webinar_handout_genai_careers.pdf",
+    "text": "webinar handout genai careers. Webinar Handout - GenAI Careers Key takeaways GenAI roles split into: builders (engineers), adapters (analysts using AI), and PMs. RAG, agents, and evaluation are the three skills employers screen for. Recommended learning path 1. Python fundamentals 2. LLM APIs 3. LangChain basics 4. One end-to-end project Resources codebasics GenAI course - youtube.com/@codebasics playlists - community Discord Q&A highlights Q: Do I need a GPU? A: No - use hosted APIs to start. Q: Is prompt engineering a career? A: It is a skill, not a career. codebasics.io - synthetic sample asset for capstone use",
+    "modified": "2026-08-13",
+    "slide_page": ""
+  },
+  {
+    "id": 29,
+    "name": "Python Tutorial - 1. Install python on windows",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=M4ztKyNkDIM",
+    "text": "Python Tutorial - 1. Install python on windows",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 30,
+    "name": "2. Variables in python [Python 3 Programming Tutorials]",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=8tCe1P_cgoY",
+    "text": "2. Variables in python [Python 3 Programming Tutorials]",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 31,
+    "name": "numpy tutorial - introduction | numpy array vs python list",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=rN0TREj8G7U",
+    "text": "numpy tutorial - introduction | numpy array vs python list",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 32,
+    "name": "numpy tutorial - basic array operations",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=a8aDcLk4vRc",
+    "text": "numpy tutorial - basic array operations",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 33,
+    "name": "Python Pandas Tutorial 1. What is Pandas python? Introduction and Installation",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=CmorAWRsCAw",
+    "text": "Python Pandas Tutorial 1. What is Pandas python? Introduction and Installation",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 34,
+    "name": "Python Pandas Tutorial 2: Dataframe Basics",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=F6kmIpWWEdU",
+    "text": "Python Pandas Tutorial 2: Dataframe Basics",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 35,
+    "name": "Matplotlib Tutorial 1 - Introduction and Installation",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=qqwf4Vuj8oM",
+    "text": "Matplotlib Tutorial 1 - Introduction and Installation",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 36,
+    "name": "SQL Tutorial For Beginners | MySQL Tutorial",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=Rm0xH2Vpfi0",
+    "text": "SQL Tutorial For Beginners | MySQL Tutorial",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 37,
+    "name": "SQL Course Live Now On Codebasics.io | SQL For Beginner and Advanced Users",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=6KK0qilW7qU",
+    "text": "SQL Course Live Now On Codebasics.io | SQL For Beginner and Advanced Users",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 38,
+    "name": "Machine Learning Tutorial Python -1: What is Machine Learning?",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=gmvvaobm7eQ",
+    "text": "Machine Learning Tutorial Python -1: What is Machine Learning?",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 39,
+    "name": "Machine Learning Tutorial Python - 2: Linear Regression Single Variable",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=8jazNUpO3lQ",
+    "text": "Machine Learning Tutorial Python - 2: Linear Regression Single Variable",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 40,
+    "name": "Machine Learning Tutorial Python - 8: Logistic Regression (Binary Classification)",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=zM4VZR0px8E",
+    "text": "Machine Learning Tutorial Python - 8: Logistic Regression (Binary Classification)",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 41,
+    "name": "Machine Learning Tutorial Python - 9 Decision Tree",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=PHxYNGo8NcI",
+    "text": "Machine Learning Tutorial Python - 9 Decision Tree",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 42,
+    "name": "Machine Learning & Data Science Project - 5 : Model Building (Real Estate Price Prediction)",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=oCiRv94GMEc",
+    "text": "Machine Learning & Data Science Project - 5 : Model Building (Real Estate Price Prediction)",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 43,
+    "name": "LangChain Crash Course For Beginners | LangChain Tutorial",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=nAmC7SoVLd8",
+    "text": "LangChain Crash Course For Beginners | LangChain Tutorial",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 44,
+    "name": "Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras & Python)",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=Mubj_fqiAv8",
+    "text": "Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras & Python)",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 45,
+    "name": "Neural Network Simply Explained | Deep Learning Tutorial 4",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=ER2It2mIagI",
+    "text": "Neural Network Simply Explained | Deep Learning Tutorial 4",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 46,
+    "name": "Simple explanation of convolutional neural network | Deep Learning Tutorial 23",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=zfiSAzpy9NM",
+    "text": "Simple explanation of convolutional neural network | Deep Learning Tutorial 23",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 47,
+    "name": "Potato Disease Classification Using CNN - 1 : Problem Statement",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=dGtDTjYs3xc",
+    "text": "Potato Disease Classification Using CNN - 1 : Problem Statement",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 48,
+    "name": "Potato Disease Classification - 3 : Model Building",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=ZN6P_GEJ7lk",
+    "text": "Potato Disease Classification - 3 : Model Building",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 49,
+    "name": "Data Analytics In Power BI Tutorials For Beginners: The Course is now LIVE",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=cElCnuA40os",
+    "text": "Data Analytics In Power BI Tutorials For Beginners: The Course is now LIVE",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 50,
+    "name": "Power BI Project For Beginners | Sales Insights - 1 - Problem Statement",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=hhZ62IlTxYs",
+    "text": "Power BI Project For Beginners | Sales Insights - 1 - Problem Statement",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 51,
+    "name": "Power BI Project For Beginners | Sales Insights - 9 Changes Based On Feedback",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=68m2UCtedj0",
+    "text": "Power BI Project For Beginners | Sales Insights - 9 Changes Based On Feedback",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 52,
+    "name": "Data Analyst Roadmap 2024 | Weekly Study Plan | Free Resources",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=bCLBdxfe57o",
+    "text": "Data Analyst Roadmap 2024 | Weekly Study Plan | Free Resources",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 53,
+    "name": "What is ML?",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://youtu.be/gmvvaobm7eQ?si=lBwDs3zf4ZQ_1Buu",
+    "text": "What is ML?",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 54,
+    "name": "Linear Regression with Single Variable",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://youtu.be/8jazNUpO3lQ?si=_OOLrGRsxqXLtGCi",
+    "text": "Linear Regression with Single Variable",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 55,
+    "name": "Is the AI Bubble about to Burst?",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://youtu.be/OJKPrJ0wNvc?si=nrmRS6SjTBtjlX0H",
+    "text": "Is the AI Bubble about to Burst?",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 56,
+    "name": "SVM",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://youtu.be/FB5EdxAGxQg?si=1mqpCPBYkAMzqbNQ",
+    "text": "SVM",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 57,
+    "name": "What is Power BI?",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://youtu.be/zSgmrWQa03s?si=_SQ6VjRGhUvjElnr",
+    "text": "What is Power BI?",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 58,
+    "name": "Star Schema",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://youtu.be/hQvCOBv_-LE?si=kSP_SdyQArtwiEzw",
+    "text": "Star Schema",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 59,
+    "name": "Data Analyst vs Data Engineer vs Data Scientist in 2025",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://youtu.be/YJCeA8cUC90?si=zyFkIlpY_xMXgQ8j",
+    "text": "Data Analyst vs Data Engineer vs Data Scientist in 2025",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 60,
+    "name": "Roundtable with Aspirants who landed data analyst JOB | Codebasics Unfiltered",
+    "type": "youtube",
+    "source": "public link",
+    "location": "https://www.youtube.com/watch?v=6FfJy66-sHw",
+    "text": "Roundtable with Aspirants who landed data analyst JOB | Codebasics Unfiltered",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 61,
+    "name": "Dhaval Patel - codebasics founder LinkedIn profile",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/in/dhavalsays",
+    "text": "Dhaval Patel - codebasics founder LinkedIn profile",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 62,
+    "name": "Codebasics official LinkedIn company page",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/company/codebasics",
+    "text": "Codebasics official LinkedIn company page",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 63,
+    "name": "Post: Codebasics is hiring Data Scientist and AI/ML Engineer roles",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_codebasics-is-looking-for-data-scientist-activity-7191277783870824448-GVxS",
+    "text": "Post: Codebasics is hiring Data Scientist and AI/ML Engineer roles",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 64,
+    "name": "Post: Codebasics organizing an AI & Data Conference",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_codebasics-is-organizing-ai-data-conference-activity-7295418360601743360-vpXX",
+    "text": "Post: Codebasics organizing an AI & Data Conference",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 65,
+    "name": "Post: Power BI resume projects and datasets for data analysts",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_dataanalytics-powerbi-dataanalyst-activity-6977981054229831680-ER9B",
+    "text": "Post: Power BI resume projects and datasets for data analysts",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 66,
+    "name": "Post: On programming and software engineering careers",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_programming-softwareengineering-coding-activity-6955725684052795392-vwyT",
+    "text": "Post: On programming and software engineering careers",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 67,
+    "name": "Post: On coding, entrepreneurship and freelancing",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_coding-entrepreneur-freelance-activity-6884467083258667008-ZxGh",
+    "text": "Post: On coding, entrepreneurship and freelancing",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 68,
+    "name": "Post: On software engineering and development careers",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_softwareengineer-programming-softwaredevelopment-activity-6910869549726736385-J4op",
+    "text": "Post: On software engineering and development careers",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 69,
+    "name": "Post: Journey from mechanical engineer to deep learning engineer",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_datascience-deeplearning-careertransition-activity-7119524860791242752-FZrv",
+    "text": "Post: Journey from mechanical engineer to deep learning engineer",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 70,
+    "name": "Codebasics post: Data Analyst Bootcamp with job assistance going live",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/codebasics_the-data-analyst-bootcamp-with-job-assistance-activity-7056972729291292672-r12W",
+    "text": "Codebasics post: Data Analyst Bootcamp with job assistance going live",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 71,
+    "name": "Codebasics post: Resume project challenge announcement",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/codebasics_resume-project-challenge-activity-6991964410005082112-R_ix",
+    "text": "Codebasics post: Resume project challenge announcement",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 72,
+    "name": "Why AI Guardrails Matter",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_this-is-what-happens-when-you-dont-have-activity-7474423484362670080-CoKn?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "Why AI Guardrails Matter",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 73,
+    "name": "Free Google AI APIs for GenAI & Agentic AI",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_google-offers-pretty-generous-api-call-limits-activity-7470678823626334209-AViD?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "Free Google AI APIs for GenAI & Agentic AI",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 74,
+    "name": "4 AI Consulting Lessons We Learned Building Real-World AI Projects",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_sharing-a-few-lessons-that-weve-learnt-working-activity-7461981491158212608-1ZJa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "4 AI Consulting Lessons We Learned Building Real-World AI Projects",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 75,
+    "name": "Five AI projects that you should work on in 2026",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_5-ai-projects-that-can-actually-get-you-hired-activity-7447848460378165248-d_U9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "Five AI projects that you should work on in 2026",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 76,
+    "name": "Claude Mythos: Powerful AI, Delayed for Safety",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_anthropics-new-model-claude-mythos-is-so-activity-7447485923870523392-wDUj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "Claude Mythos: Powerful AI, Delayed for Safety",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 77,
+    "name": "4 Free Ways to Build AI Projects Without Paying for LLM APIs",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_stop-paying-for-llm-apis-use-these-free-activity-7442775072915996672-0Srq?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "4 Free Ways to Build AI Projects Without Paying for LLM APIs",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 78,
+    "name": "OpenRouter: One API Key for Hundreds of LLMs",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_openrouter-is-like-a-zomato-for-llms-imagine-activity-7440320560649154560-cTIL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "OpenRouter: One API Key for Hundreds of LLMs",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 79,
+    "name": "OpenClaw Setup Got Outdated",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_today-i-started-setting-up-openclaw-i-am-activity-7439583575018070016-sDBO?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "OpenClaw Setup Got Outdated",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 80,
+    "name": "Naval Ravikant's Take on the AI-First Era",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_navals-view-on-vibe-coding-that-i-couldnt-activity-7438064023260024832-Is3M?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "Naval Ravikant's Take on the AI-First Era",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 81,
+    "name": "Linus Torvalds on AI-Written Code",
+    "type": "linkedin",
+    "source": "public link",
+    "location": "https://www.linkedin.com/posts/dhavalsays_the-godfather-of-coding-admits-ai-writes-activity-7417770166194925568-w4kQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABzvTDgBUw0noXzKljH0-dzF85MsAoBKvVY",
+    "text": "Linus Torvalds on AI-Written Code",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 82,
+    "name": "Codebasics - Data Analytics, Data Science and AI Courses (main site)",
+    "type": "website",
+    "source": "public link",
+    "location": "https://codebasics.io/",
+    "text": "Codebasics - Data Analytics, Data Science and AI Courses (main site)",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 83,
+    "name": "SQL Course for Beginners to Advanced levels",
+    "type": "website",
+    "source": "public link",
+    "location": "https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals",
+    "text": "SQL Course for Beginners to Advanced levels",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 84,
+    "name": "Power BI Data Analytics Course 3.0",
+    "type": "website",
+    "source": "public link",
+    "location": "https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project",
+    "text": "Power BI Data Analytics Course 3.0",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 85,
+    "name": "Data Analytics Bootcamp 5.0",
+    "type": "website",
+    "source": "public link",
+    "location": "https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance",
+    "text": "Data Analytics Bootcamp 5.0",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 86,
+    "name": "Blog: Data Analyst Roadmap 2026",
+    "type": "website",
+    "source": "public link",
+    "location": "https://codebasics.io/blog/data-analyst-roadmap-2026-skills-tools-and-a-step-by-step-learning-plan",
+    "text": "Blog: Data Analyst Roadmap 2026",
+    "modified": "",
+    "slide_page": ""
+  },
+  {
+    "id": 87,
+    "name": "Resource: AI Engineer Roadmap 2026",
+    "type": "website",
+    "source": "public link",
+    "location": "https://codebasics.io/resources/ai-engineer-roadmap-2026",
+    "text": "Resource: AI Engineer Roadmap 2026",
+    "modified": "",
+    "slide_page": ""
+  }
+]
