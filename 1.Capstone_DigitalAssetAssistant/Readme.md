@@ -29,6 +29,28 @@ A **local, semantic search**. It reads the text *inside* files (and *inside* You
 
 ---
 
+## 🧭 The user journey (current state)
+
+![User journey](docs/images/user_journey.png)
+
+**Triggers:** a creator is building a new course, updating an outdated asset, or extracting a snippet for a social post. **Today:** they map the drive and type a string (e.g. `ML`) into Windows Explorer → it matches only literal filenames, misses "Machine Learning", and can't see inside decks or videos → **15+ minutes, gives up, recreates.**
+
+## 🎯 AI opportunity mapping
+
+Each job the user needs → the specific AI capability that solves it:
+
+| Opportunity (the job) | AI capability |
+|---|---|
+| Understand a query's *meaning* — so "ML" finds "Machine Learning" | Semantic search via text **embeddings** (RAG retrieval) |
+| Read the text *inside* PDFs and PowerPoint decks | Document text extraction |
+| Read the text printed *inside* images/thumbnails | Image OCR *(v2; filename in v1)* |
+| Find *what's said inside* a video + jump to the moment | Transcript + timestamps |
+| Rank and return the best matches with the reason | Vector similarity ranking + structured output |
+
+**Deliberately NOT AI:** filetype filtering, recency sorting, and search history are plain logic — AI is used only where *meaning* is required.
+
+---
+
 ## 🗂️ The 7 capstone steps
 
 | # | Step | Deliverable |
@@ -65,6 +87,23 @@ A **local, semantic search**. It reads the text *inside* files (and *inside* You
 - **Local** — proprietary content never leaves the machine.
 - **Explainable** — every result shows *why* it matched.
 - **Guardrails** — filetype allowlist (ignores `.zip`), out-of-domain "EdTech only" message, English-only, rate limit + timeout.
+
+### Guardrails & failure modes
+
+| Risk | Guardrail |
+|---|---|
+| Hallucination (fake asset) | Retrieval-only — can only return assets that exist |
+| Privacy (proprietary IP) | Runs locally — content never leaves the machine |
+| Outdated / wrong match | Show *why* it matched + rank newest first |
+| Off-topic input (e.g. "biryani") | Below-threshold → "EdTech only" message, never a weak guess |
+| Non-English / abusive input | English-only nudge; per-session rate limit + query timeout |
+| Wrong file types | Allowlist — ignore `.zip`, video files, etc. |
+
+## ✅ Evals — the quality bar before shipping
+
+- **Functional:** the correct asset appears in the **top 3 ≥ 90%** on a benchmark query set.
+- **Safety:** **0** fabricated results; unsupported/abusive input always handled.
+- **Launch gate (one condition):** `power bi thumbnail` **and** `machine learning` both return the right asset in the top 3 — verified live. ✅
 
 ## 📊 Success metrics
 
