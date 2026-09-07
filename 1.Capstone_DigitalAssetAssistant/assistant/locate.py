@@ -5,6 +5,19 @@ and return the best one. (FR-5: 'the precise spot - slide/page of the match'.)
 """
 from pathlib import Path
 
+from .guardrails import ACRONYMS
+
+
+def _expand(query):
+    """Query words plus expansions of any known acronyms, so 'ML' also matches
+    'machine learning' when locating the slide/page/moment."""
+    words = query.lower().split()
+    out = list(words)
+    for w in words:
+        if w in ACRONYMS:
+            out += ACRONYMS[w].lower().split()
+    return [w for w in out if len(w) > 1]
+
 
 def _score(text, qwords):
     t = (text or "").lower()
@@ -19,7 +32,7 @@ def _snip(text, n=160):
 def locate_in_transcript(segments, query):
     """segments: list of [start_seconds, text]. Return (seconds:int, snippet) of the
     best-matching moment, or (None, '') if nothing matches. Powers the video jump."""
-    qwords = [w for w in query.lower().split() if len(w) > 1]
+    qwords = _expand(query)
     if not qwords:
         return None, ""
     best = (0, None, "")  # score, start, text
@@ -36,7 +49,7 @@ def locate_in_file(abs_path, query):
     """Return (where_label, snippet), e.g. ('Slide 4', '...'). Empty strings if unknown."""
     p = Path(abs_path)
     ext = p.suffix.lower()
-    qwords = [w for w in query.lower().split() if len(w) > 1]
+    qwords = _expand(query)
     if not qwords:
         return "", ""
     try:
