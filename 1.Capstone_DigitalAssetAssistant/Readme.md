@@ -29,7 +29,7 @@ A **local, semantic search**. It reads the text *inside* files (and *inside* You
 
 **Search by meaning → get the exact file, its location, the slide/page, and a download.**
 
-![How it works](docs/images/search_flow.png)
+![How it works](docs/images/search_flow.jpg)
 
 ---
 
