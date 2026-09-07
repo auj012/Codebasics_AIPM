@@ -52,7 +52,7 @@ Each job the user needs → the specific AI capability that solves it:
 | Rank and return the best matches with the reason | Vector similarity ranking + structured output |
 
 **Deliberately NOT AI:** filetype filtering, recency sorting, and search history are plain logic — AI is used only where *meaning* is required.
-
+![AI Opportunity](docs/images/DG_AIOpportunity.png)
 ---
 
 ## 🗂️ The 7 capstone steps
