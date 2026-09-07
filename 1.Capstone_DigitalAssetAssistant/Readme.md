@@ -2,9 +2,13 @@
 
 > **AI PM Capstone 2** — an AI system that lets a content team **find any asset by meaning, not by filename**, so they stop recreating work that already exists.
 
-### ▶️ **[Try the live app →](https://codebasicsaipm-capstonedigitalassistant.streamlit.app/)**
 
-_No setup needed — search `power bi thumbnail`, `star schema`, or `machine learning`. (Deployed free on Streamlit Community Cloud.)_
+▶️ **[Try the live app →](https://streamlit.app)** 
+
+📺 **[Watch the project demo video on YouTube →](https://youtube.com)**
+
+_No setup needed — search `power bi thumbnail`, `star schema`, or `machine learning`. (Deployed free on Streamlit Community)_
+
 
 ![The problem](docs/images/problem.png)
 
