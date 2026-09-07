@@ -120,7 +120,9 @@ Runs on open-source + free tiers = **~$0**. Because it *retrieves* rather than *
 
 ---
 
-## ▶️ Run it locally
+## ▶️ Run it yourself (optional)
+
+The easiest way is the **[live app](https://codebasicsaipm-capstonedigitalassistant.streamlit.app/)** above — no setup. To run it locally instead:
 
 ```bash
 python -m venv .venv
