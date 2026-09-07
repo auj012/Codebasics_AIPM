@@ -2,6 +2,10 @@
 
 > **AI PM Capstone 2** — an AI system that lets a content team **find any asset by meaning, not by filename**, so they stop recreating work that already exists.
 
+### ▶️ **[Try the live app →](https://codebasicsaipm-capstonedigitalassistant.streamlit.app/)**
+
+_No setup needed — search `power bi thumbnail`, `star schema`, or `machine learning`. (Deployed free on Streamlit Community Cloud.)_
+
 ![The problem](docs/images/problem.png)
 
 A decade of creation leaves thousands of assets — course videos, YouTube tutorials, thumbnails, decks, PDFs — scattered across drives with inconsistent names (`final`, `final_v2`, `FINAL_USE_THIS`). Nobody can search *inside* a video or an image, so teams **search, give up, and recreate**. This project fixes that.
