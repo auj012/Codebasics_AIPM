@@ -3,9 +3,9 @@
 > **AI PM Capstone 2** — an AI system that lets a content team **find any asset by meaning, not by filename**, so they stop recreating work that already exists.
 
 
-▶️ **[Try the live app →](https://streamlit.app)** 
+▶️ **[Try the live app →](https://codebasicsaipm-capstonedigitalassistant.streamlit.app/)** 
 
-📺 **[Watch the project demo video on YouTube →](https://youtube.com)**
+📺 **[Watch the project demo video on YouTube →](https://www.youtube.com/watch?v=DsQPJOJNNYo&t=149s)**
 
 _No setup needed — search `power bi thumbnail`, `star schema`, or `machine learning`. (Deployed free on Streamlit Community)_
 
@@ -67,9 +67,9 @@ Each job the user needs → the specific AI capability that solves it:
 | 2 | **AI opportunity mapping** (user journey, opportunity map, architecture, risks) | [Journey](Deliverables/Step2_UshaDigitalAssistant_UserJourney.pdf) · [Opportunity](Deliverables/Step2_UshaDigitalAssistant_AIOpportunityMapping.pdf) · [Block diagram](Deliverables/Step2_UshaDigitalAssistant%20_SystemBlockDiagram.pdf) · [Risks](Deliverables/Step2_UshaDigitalAssistant_Risks.pdf) |
 | 3 | **AI PRD** (North Star, guardrails, evals, model strategy) | [Step 3 (docx)](Deliverables/Step3_DigitalAsset_AI_PRD.docx) |
 | 4 | **Cost estimation** (local/free vs paid cloud) | [Step 4 (xlsx)](Deliverables/Step4_DigitalAsset_Cost_Estimation.xlsx) |
-| 5 | **Working prototype** (this code) | `assistant/`, `streamlit_app.py` |
+| 5 | **Working prototype** (this code) | `src/assistant/`, `src/streamlit_app.py` |
 | 6 | **Presentation** | [Step 6 (pptx)](Deliverables/Step6_DigitalAsset_Presentation.pptx) |
-| 7 | **Stakeholder demo video** | _(link)_ |
+| 7 | **Stakeholder demo video** | [Watch on YouTube](https://www.youtube.com/watch?v=DsQPJOJNNYo&t=149s) |
 
 ---
 
@@ -79,13 +79,13 @@ Each job the user needs → the specific AI capability that solves it:
 
 | Module | Role |
 |--------|------|
-| `assistant/models.py` | `Asset`, `SearchResult` data objects |
-| `assistant/extractors.py` | `TextExtractor` → `Pdf` / `Pptx` / `Image` / `YouTubeTranscript` extractors |
-| `assistant/embedder.py` | `Embedder` — text → vector (swap to change models) |
-| `assistant/vector_store.py` | `VectorStore` — holds vectors, finds closest |
-| `assistant/indexer.py` | `AssetIndexer` — builds the index (with transcript caching) |
-| `assistant/search_engine.py` | `SearchEngine` — the core: query → ranked results |
-| `assistant/guardrails.py` | `Guardrails` — allowlist, rate limit, English-only, acronyms |
+| `src/assistant/models.py` | `Asset`, `SearchResult` data objects |
+| `src/assistant/extractors.py` | `TextExtractor` → `Pdf` / `Pptx` / `Image` / `YouTubeTranscript` extractors |
+| `src/assistant/embedder.py` | `Embedder` — text → vector (swap to change models) |
+| `src/assistant/vector_store.py` | `VectorStore` — holds vectors, finds closest |
+| `src/assistant/indexer.py` | `AssetIndexer` — builds the index (with transcript caching) |
+| `src/assistant/search_engine.py` | `SearchEngine` — the core: query → ranked results |
+| `src/assistant/guardrails.py` | `Guardrails` — allowlist, rate limit, English-only, acronyms |
 
 **Pipeline:** read text inside files & videos → embed (local) → on-device index → search + rank by relevance then recency → deliver the file.
 
@@ -132,13 +132,15 @@ The easiest way is the **[live app](https://codebasicsaipm-capstonedigitalassist
 python -m venv .venv
 .venv\Scripts\activate          # Windows
 pip install -r requirements.txt
-python build_index.py           # build the search index (once)
-streamlit run streamlit_app.py  # open the app
+python src/build_index.py           # build the search index (once)
+streamlit run src/streamlit_app.py  # open the app
 ```
 
 Then search: `power bi thumbnail`, `machine learning`, `star schema`.
 
 > **Note:** the sample dataset is provided by the Codebasics capstone. Video transcripts use the free `youtube-transcript-api`; YouTube may rate-limit repeated fetching, so transcripts are **cached** after the first successful build.
+>
+> **Dataset note:** one sample deck — `DA vs DS vs DE.pptx` (~154 MB) — exceeds GitHub's 100 MB file limit, so it is excluded from this repo and from the deployed search index. Every other asset is included and fully downloadable in the live app.
 
 ---
 

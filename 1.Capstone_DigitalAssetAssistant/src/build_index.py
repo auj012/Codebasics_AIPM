@@ -11,7 +11,7 @@ from pathlib import Path
 from assistant.embedder import Embedder
 from assistant.indexer import AssetIndexer
 
-BASE = Path(__file__).parent
+BASE = Path(__file__).resolve().parent.parent
 
 if __name__ == "__main__":
     print("Building the index - reading files, fetching transcripts, embedding...")

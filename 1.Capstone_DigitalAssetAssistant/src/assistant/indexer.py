@@ -23,8 +23,8 @@ from .guardrails import Guardrails
 class AssetIndexer:
     def __init__(self, base_dir, embedder):
         self.base = Path(base_dir)
-        self.assets_dir = self.base / "Dataset" / "Dataset" / "Dataset" / "sample_assets" / "sample_assets"
-        self.links_xlsx = self.base / "Dataset" / "Dataset" / "Dataset" / "public_links.xlsx"
+        self.assets_dir = self.base / "Dataset" / "sample_assets"
+        self.links_xlsx = self.base / "Dataset" / "public_links.xlsx"
         self.embedder = embedder
         self.pdf = PdfExtractor()
         self.pptx = PptxExtractor()

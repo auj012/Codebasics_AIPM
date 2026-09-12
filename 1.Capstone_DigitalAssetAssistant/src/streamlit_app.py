@@ -25,7 +25,7 @@ def yt_jump(url, sec):
         return f"{url}{'&' if '?' in url else '?'}t={sec}"
     return url
 
-BASE = Path(__file__).parent
+BASE = Path(__file__).resolve().parent.parent
 INDEX = BASE / "index"
 
 
@@ -98,7 +98,7 @@ if query:
                                                file_name=r.asset.name,
                                                key=f"dl_{r.asset.id}")
                     except Exception:
-                        pass
+                        st.caption("⚠ File not available in this build.")
                 if r.asset.modified:
                     st.caption(f"🗓 {r.asset.modified}")
                 if r.matched_snippet:
