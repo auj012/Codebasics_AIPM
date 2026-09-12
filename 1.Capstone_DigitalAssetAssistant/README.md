@@ -3,7 +3,7 @@
 > **AI PM Capstone 2** — an AI system that lets a content team **find any asset by meaning, not by filename**, so they stop recreating work that already exists.
 
 
-▶️ **[Try the live app →](https://codebasicsaipm-capstonedigitalassistant.streamlit.app/)** 
+▶️ **[Try the live app →](https://digitalsearchassistant-codebasics1.streamlit.app/)** 
 
 📺 **[Watch the project demo video on YouTube →](https://www.youtube.com/watch?v=DsQPJOJNNYo&t=149s)**
 
@@ -126,12 +126,12 @@ Runs on open-source + free tiers = **~$0**. Because it *retrieves* rather than *
 
 ## ▶️ Run it yourself (optional)
 
-The easiest way is the **[live app](https://codebasicsaipm-capstonedigitalassistant.streamlit.app/)** above — no setup. To run it locally instead:
+The easiest way is the **[live app](https://digitalsearchassistant-codebasics1.streamlit.app/)** above — no setup. To run it locally instead:
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate          # Windows
-pip install -r requirements.txt
+pip install -r src/requirements.txt
 python src/build_index.py           # build the search index (once)
 streamlit run src/streamlit_app.py  # open the app
 ```
