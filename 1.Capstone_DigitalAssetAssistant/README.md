@@ -144,4 +144,17 @@ Then search: `power bi thumbnail`, `machine learning`, `star schema`.
 
 ---
 
+## 🗺️ What's next (roadmap)
+
+Ideas to extend this project:
+
+- 🎙️ **Voice search** — speak your query instead of typing it
+- 🌐 **Multilingual (Hindi first)** — search Codebasics' Hindi content in Hindi
+- 🖼️ **Image OCR** — find assets by the text printed *inside* thumbnails (today, images match on filename)
+- 🎬 **Full in-video search** — search inside video transcripts and jump to the exact moment
+- ✅ **Quality checks (evals)** — automated tests that flag when search quality drops after new assets or model changes
+- 🗄️ **Scale** — a production vector database with automatic indexing of new files as the library grows
+
+---
+
 *Built by Ushasree Jakilinki · AI Product Management Capstone.*
