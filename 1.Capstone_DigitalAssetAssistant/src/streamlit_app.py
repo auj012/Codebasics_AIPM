@@ -15,6 +15,7 @@ from assistant.vector_store import VectorStore
 from assistant.guardrails import Guardrails
 from assistant.search_engine import SearchEngine
 from assistant.locate import locate_in_file, locate_in_transcript
+from streamlit_mic_recorder import speech_to_text
 
 
 def yt_jump(url, sec):
@@ -57,7 +58,22 @@ if not (INDEX / "catalog.json").exists():
 engine = load_engine()
 transcripts = load_transcripts()
 
-query = st.text_input("What are you looking for?", placeholder="e.g. power bi thumbnail")
+typed = st.text_input("What are you looking for?", placeholder="e.g. power bi thumbnail  —  or use the mic below")
+
+# 🎙️ Voice input (English). The browser does the speech-to-text (free, no server).
+spoken = speech_to_text(language="en", start_prompt="🎙️ Speak your search",
+                        stop_prompt="⏹ Stop", just_once=True, key="mic")
+
+# A fresh spoken query wins this run; otherwise use the typed box. Remember the last
+# query so results stay put when you click Download or open a link.
+if spoken:
+    st.session_state["query"] = spoken
+elif typed:
+    st.session_state["query"] = typed
+query = st.session_state.get("query", "").strip()
+
+if spoken:
+    st.caption(f"🎙️ Heard: **{spoken}**")
 
 if query:
     out = engine.search(query, k=5)
