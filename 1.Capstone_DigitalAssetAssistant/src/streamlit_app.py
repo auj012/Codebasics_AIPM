@@ -58,25 +58,29 @@ if not (INDEX / "catalog.json").exists():
 engine = load_engine()
 transcripts = load_transcripts()
 
-typed = st.text_input("What are you looking for?", placeholder="e.g. power bi thumbnail  —  or use the mic below")
+# Search box + mic on one row. Dictation fills the box so you can SEE what was heard.
+st.session_state.setdefault("query_text", "")
 
-# 🎙️ Voice input (English). The browser does the speech-to-text (free, no server).
-spoken = speech_to_text(language="en", start_prompt="🎙️ Speak your search",
-                        stop_prompt="⏹ Stop", just_once=True, key="mic")
+c1, c2 = st.columns([5, 2])
+with c2:
+    st.write("")  # nudge the mic button down to line up with the box
+    spoken = speech_to_text(language="en", start_prompt="🎙️ Speak",
+                            stop_prompt="⏹ Stop", just_once=True, key="mic")
+if spoken:                       # put the dictation straight into the search box
+    st.session_state["query_text"] = spoken
+with c1:
+    st.text_input("What are you looking for?", key="query_text",
+                  placeholder="Type, or tap 🎙️ Speak to talk")
 
-# A fresh spoken query wins this run; otherwise use the typed box. Remember the last
-# query so results stay put when you click Download or open a link.
-if spoken:
-    st.session_state["query"] = spoken
-elif typed:
-    st.session_state["query"] = typed
-query = st.session_state.get("query", "").strip()
+go = st.button("🔍 Search", type="primary")
+query = st.session_state["query_text"].strip()
 
 if spoken:
     st.caption(f"🎙️ Heard: **{spoken}**")
 
 if query:
-    out = engine.search(query, k=5)
+    with st.spinner("🔎 Searching…"):
+        out = engine.search(query, k=5)
 
     if out["status"] in ("blocked", "no_match"):
         st.warning(out["message"])
