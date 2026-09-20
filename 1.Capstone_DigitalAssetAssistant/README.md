@@ -7,7 +7,7 @@
 
 📺 **[Watch the project demo video on YouTube →](https://www.youtube.com/watch?v=DsQPJOJNNYo&t=149s)**
 
-_No setup needed — search `power bi thumbnail`, `star schema`, or `machine learning`. (Deployed free on Streamlit Community)_
+_No setup needed — **type or 🎙️ speak** your search: `power bi thumbnail`, `star schema`, or `machine learning`. (Deployed free on Streamlit Community)_
 
 
 ![The problem](docs/images/problem.png)
@@ -32,6 +32,8 @@ A decade of creation leaves thousands of assets — course videos, YouTube tutor
 A **local, semantic search**. It reads the text *inside* files (and *inside* YouTube videos via transcripts), turns everything into embeddings **on-device** (open-source, ~$0, private), and returns the right asset with the reason it matched.
 
 **Search by meaning → get the exact file, its location, the slide/page, and a download.**
+
+🎙️ **Voice or text** — search by speaking (English) or typing. Voice uses the browser's built-in speech-to-text (Web Speech API), so it stays free and needs no server (Chrome/Edge).
 
 ![How it works](docs/images/search_flow.jpg)
 
@@ -148,7 +150,6 @@ Then search: `power bi thumbnail`, `machine learning`, `star schema`.
 
 Ideas to extend this project:
 
-- 🎙️ **Voice search** — speak your query instead of typing it
 - 🌐 **Multilingual (Hindi first)** — search Codebasics' Hindi content in Hindi
 - 🖼️ **Image text search (OCR — Optical Character Recognition)** — find assets by the text printed *inside* thumbnails (today, images match on filename)
 - 🎬 **Full in-video search** — search inside video transcripts and jump to the exact moment
