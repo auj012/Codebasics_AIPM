@@ -156,4 +156,10 @@ Ideas to extend this project:
 
 ---
 
+## 🐾 The solution at a glance
+
+![The solution — Digital Asset Search Assistant](docs/images/solution.png)
+
+---
+
 *Built by Ushasree Jakilinki · AI Product Management Capstone.*
