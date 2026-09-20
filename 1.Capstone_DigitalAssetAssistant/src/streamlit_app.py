@@ -73,15 +73,23 @@ with c1:
                   placeholder="Type, or tap 🎙️ Speak to talk")
 
 go = st.button("🔍 Search", type="primary")
-query = st.session_state["query_text"].strip()
+qbox = st.session_state["query_text"].strip()
 
 if spoken:
     st.caption(f"🎙️ Heard: **{spoken}**")
 
-if query:
+# Only run the (slow) search when you ACT — click Search, speak a new query, or
+# change the text. Otherwise we re-render the last results. This stops the app
+# from re-searching on every incidental rerun (which felt "stuck" on the free tier).
+if qbox and (go or bool(spoken) or qbox != st.session_state.get("last_query")):
     with st.spinner("🔎 Searching…"):
-        out = engine.search(query, k=5)
+        st.session_state["last_out"] = engine.search(qbox, k=5)
+        st.session_state["last_query"] = qbox
 
+query = st.session_state.get("last_query", "")
+out = st.session_state.get("last_out")
+
+if query and out is not None:
     if out["status"] in ("blocked", "no_match"):
         st.warning(out["message"])
     else:
